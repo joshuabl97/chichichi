@@ -3,7 +3,7 @@ package routers
 import (
 	"net/http"
 
-	"chichichi/handlers"
+	"github.org/joshuabl97/chichichi/handlers"
 
 	"github.com/go-chi/chi"
 )

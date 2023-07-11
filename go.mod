@@ -1,4 +1,4 @@
-module chichichi
+module github.org/joshuabl97/chichichi
 
 go 1.18
 
