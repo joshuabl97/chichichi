@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.org/joshuabl97/chichichi/handlers"
-	"github.org/joshuabl97/chichichi/middleware"
-	"github.org/joshuabl97/chichichi/routers"
+	"github.com/joshuabl97/chichichi/handlers"
+	"github.com/joshuabl97/chichichi/middleware"
+	"github.com/joshuabl97/chichichi/routers"
 )
 
 type Redirect struct {
